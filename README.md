@@ -128,3 +128,6 @@ This part focuses on creating additional measures and utilizing quick measures i
 5. **3 Days Moving Average**
    - I have created a table visual showing date, sales, and 3 days moving average.
 
+
+
+#### All the completed files and excel files and available to download 
